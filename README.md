@@ -20,7 +20,7 @@ It supports **voice-based interaction**, **noise cancellation**, and can perform
 
 ## 🛠️ Tech Stack  
 
-- [LiveKit Agents](https://github.com/livekit/agents) – Realtime AI sessions.  
+- [LiveKit Agents](https://https://docs.livekit.io/agents/) – Realtime AI sessions.  
 - [Google Realtime Gemini API](https://ai.google.dev/) – LLM backbone.  
 - [Mem0](https://mem0.ai) – Memory persistence.  
 - [Python `dotenv`](https://pypi.org/project/python-dotenv/) – Environment variables.  
